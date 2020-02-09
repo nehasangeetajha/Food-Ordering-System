@@ -1,2 +1,2 @@
-# Food-Ordering-System
-Basic Food Ordering system in Python
+# Meal-Ordering-System
+Basic Food and drink Ordering system in Python
